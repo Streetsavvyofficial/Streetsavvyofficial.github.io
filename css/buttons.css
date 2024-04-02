@@ -1,0 +1,120 @@
+.itemsbutton1 {
+    animation: fadeIn 1s;
+    position: absolute;
+    transition: 0.2s;
+    margin: calc(50vh - 20px) auto 0 auto;
+    font-size: 65px;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    font-weight: normal;
+    display: block;
+    height: auto;
+    color: white;
+    text-align: center;
+    background-color: transparent;
+    border: #132030 1px solid;
+    border-radius: 5px;
+    border: 2px solid white;
+    top: -10%;
+    left: 30%;
+}
+
+.itemsbutton1:hover {
+    transition: 0.2s;
+    border-bottom: 5px solid white;
+}
+
+.itemsbutton1:active {
+    transition: 0.5s;
+    background-color: white;
+}
+
+.itemsbutton2 {
+    animation: fadeIn 1s;
+    position: absolute;
+    transition: 0.2s;
+    margin: calc(50vh - 20px) auto 0 auto;
+    font-size: 65px;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    font-weight: normal;
+    display: block;
+    height: auto;
+    text-align: center;
+    background-color: transparent;
+    border: #132030 1px solid;
+    border-radius: 5px;
+    color: white;
+    border: 2px solid white;
+    top: -10%;
+    left: 29%;
+}
+
+.itemsbutton2:hover {
+    transition: 0.2s;
+    border-bottom: 5px solid white;
+}
+
+.itemsbutton2:active {
+    transition: 0.5s;
+    background-color: white;
+}
+
+.itemsbutton3 {
+    animation: fadeIn 1s;
+    position: absolute;
+    transition: 0.2s;
+    margin: calc(50vh - 20px) auto 0 auto;
+    font-size: 65px;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    font-weight: normal;
+    display: block;
+    height: auto;
+    text-align: center;
+    background-color: transparent;
+    border: #132030 1px solid;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    top: -10%;
+    left: 43%;
+}
+
+.itemsbutton3:hover {
+    transition: 0.2s;
+    border-bottom: 5px solid white;
+
+}
+
+.itemsbutton3:active {
+    transition: 0.5s;
+    background-color: white;
+}
+
+.itemsbutton4 {
+    animation: fadeIn 1s;
+    position: absolute;
+    transition: 0.2s;
+    margin: calc(50vh - 20px) auto 0 auto;
+    font-size: 65px;
+    font-family: "Archivo Black", "Archivo", sans-serif;
+    font-weight: normal;
+    display: block;
+    height: auto;
+    text-align: center;
+    background-color: transparent;
+    border: #132030 1px solid;
+    border-radius: 5px;
+    border: 2px solid white;
+    top: -10%;
+    color: white;
+    left: 57%;
+}
+
+.itemsbutton4:hover {
+    transition: 0.2s;
+    border-bottom: 5px solid white;
+}
+
+.itemsbutton4:active {
+    transition: 0.5s;
+    background-color: white;
+}
